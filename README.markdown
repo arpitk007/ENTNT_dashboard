@@ -10,11 +10,10 @@ The project is deployed on both Vercel and GitHub Pages, and the source code is 
 
 ## Deployed App and GitHub Links
 
-- **Deployed App Link (GitHub Pages)**: [https://your-username.github.io/entnt-rental-dashboard/](https://your-username.github.io/entnt-rental-dashboard/)
-- **Deployed App Link (Vercel)**: [https://entnt-rental-dashboard.vercel.app](https://entnt-rental-dashboard.vercel.app)
-- **GitHub Repository Link**: [https://github.com/your-username/entnt-rental-dashboard](https://github.com/your-username/entnt-rental-dashboard)
+- **Deployed App Link (GitHub Pages)**: [https://arpitk007.github.io/ENTNT_dashboard/](https://arpitk007.github.io/ENTNT_dashboard/)
 
-*Note*: Replace `your-username` in the GitHub Pages and GitHub repository links with your actual GitHub username.
+- **GitHub Repository Link**: [https://github.com/arpitk007/ENTNT_dashboard](https://github.com/arpitk007/ENTNT_dashboard)
+
 
 ---
 
