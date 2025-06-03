@@ -63,10 +63,10 @@ The project is deployed on both Vercel and GitHub Pages, and the source code is 
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/entnt-rental-dashboard.git
-   cd entnt-rental-dashboard
+   git clone https://github.com/arpitk007/ENTNT_dashboard
+   cd ENTNT_dashboard
    ```
-   Replace `your-username` with your GitHub username.
+
 
 2. **Install Dependencies**:
    ```bash
