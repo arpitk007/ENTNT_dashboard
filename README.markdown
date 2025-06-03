@@ -63,7 +63,7 @@ The project is deployed on both Vercel and GitHub Pages, and the source code is 
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/arpitk007/ENTNT_dashboard
+   git clone https://github.com/arpitk007/ENTNT_dashboard.git
    cd ENTNT_dashboard
    ```
 
