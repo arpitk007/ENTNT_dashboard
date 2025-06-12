@@ -231,4 +231,4 @@ The app initializes with the following mock data in `localStorage` (as specified
 
 ## Conclusion
 
-This project demonstrates a fully functional Equipment Rental Management Dashboard with a clean, modular codebase, responsive design, and efficient state management. It meets the assignment requirements and includes bonus features like dark mode. Despite minor known issues (e.g., notification sound, charts), the app is production-ready and deployed on both Vercel and GitHub Pages for review.
+This project demonstrates a fully functional Equipment Rental Management Dashboard with a clean, modular codebase, responsive design, and efficient state management. It meets the assignment requirements and includes bonus features like dark mode. Despite minor known issues (e.g., notification sound, charts), the app is production-ready and deployed on GitHub Pages for review.
