@@ -23,7 +23,22 @@ The app is powered by **React + Vite**, styled with **Material UI**, and navigat
 💾 **GitHub Repo:** [https://github.com/arpitk007/ENTNT_dashboard](https://github.com/arpitk007/ENTNT_dashboard)
 
 ---
+## 🧰 Sample Data for login
+```bash
+{
+  "users": [
+    { "id": "1", "role": "Admin", "email": "admin@entnt.in", "password": "admin123" },
+    { "id": "2", "role": "Staff", "email": "staff@entnt.in", "password": "staff123" },
+    { "id": "3", "role": "Customer", "email": "customer@entnt.in", "password": "cust123" }
+  ],
+  "equipment": [
+    { "id": "eq1", "name": "Excavator", "category": "Heavy Machinery", "condition": "Good", "status": "Available" },
+    { "id": "eq2", "name": "Concrete Mixer", "category": "Construction", "condition": "Excellent", "status": "Rented" }
+  ]
+}
+```
 
+---
 ## ⚙️ Tech Stack  
 
 | Category | Tools & Libraries |
@@ -44,6 +59,7 @@ The app is powered by **React + Vite**, styled with **Material UI**, and navigat
 - 📦 **Rental Management** (Create, Filter, Status Tracking)
 - 🧾 **Maintenance Management** (Add, Edit Maintenance Tasks)
 - 🗓️ **Rental Calendar View**
+- 📤 **Export reports (CSV)**
 - 🔔 **Notification Center** with dismissible alerts
 - 📊 **KPIs Dashboard** with key performance metrics
 - 🌙 **Dark/Light Mode**
